@@ -91,7 +91,7 @@ class HomePage extends ConsumerWidget {
                                     BorderRadius.all(Radius.circular(10))),
                             backgroundColor: Colors.white),
                         onPressed: selectDate,
-                        child: const Text('Selectionnez une date',
+                        child: const Text('Selectionnez une heure',
                             textScaler: TextScaler.linear(1.2),
                             style: TextStyle(
                               color: Color.fromARGB(255, 255, 136, 0),

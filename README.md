@@ -7,8 +7,8 @@ Alarm app based on iphone alarm
 ## Shots
  <div class="row">
   <div class="column">
-   <img src="assets/screenshot/Screenshot_1719578600.png"  height="400"/>
-   <img src="assets/screenshot/Screenshot_1719578613.png"  height="400"/>
-   <img src="assets/screenshot/Screenshot_1719578833.png"  height="400"/>
+   <img src="assets/screenshot/Screenshot_1719579300.png"  height="400"/>
+   <img src="assets/screenshot/Screenshot_1719579244.png"  height="400"/>
+   <img src="assets/screenshot/Screenshot_1719579343.png"  height="400"/>
    </div>
 </div>
