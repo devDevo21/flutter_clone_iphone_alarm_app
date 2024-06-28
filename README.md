@@ -1,16 +1,14 @@
 # fluttter_alarm_app
 
-A new Flutter project.
+Alarm app based on iphone alarm
 
-## Getting Started
+- [My Linkedin](https://www.linkedin.com/in/loïc-lekane-627368270)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Shots
+ <div class="row">
+  <div class="column">
+   <img src="assets/screenshot/Screenshot_1719578600.png"  height="400"/>
+   <img src="assets/screenshot/Screenshot_1719578613.png"  height="400"/>
+   <img src="assets/screenshot/Screenshot_1719578833.png"  height="400"/>
+   </div>
+</div>
